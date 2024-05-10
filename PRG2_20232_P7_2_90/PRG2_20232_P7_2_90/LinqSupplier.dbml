@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="P5_90" Class="LinqSupplierDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=LAPTOP-Q205KVH8;Initial Catalog=P5_90;Integrated Security=True;Encrypt=False" SettingsObjectName="PRG2_20232_P7_2_90.Properties.Settings" SettingsPropertyName="P5_90ConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.ms_supplier" Member="ms_suppliers">
+    <Type Name="ms_supplier">
+      <Column Name="id_supplier" Type="System.String" DbType="Char(5) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="nama_supplier" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="telp" Type="System.String" DbType="VarChar(13)" CanBeNull="true" />
+      <Column Name="alamat" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

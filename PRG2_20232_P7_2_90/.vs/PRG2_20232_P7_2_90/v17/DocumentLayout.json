@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amar\\OneDrive - Politeknik Astra\\Mata Kuliah\\Semester 2\\PRG 2\\Tugas\\Minggu 8\\New folder\\PRG2_20232_P7_2_90\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3132B907-66A9-4A4F-A6FD-54FCE8E6C1F1}|PRG2_20232_P7_2_90\\PRG2_20232_P7_2_90.csproj|C:\\Users\\Amar\\OneDrive - Politeknik Astra\\Mata Kuliah\\Semester 2\\PRG 2\\Tugas\\Minggu 8\\New folder\\PRG2_20232_P7_2_90\\prg2_20232_p7_2_90\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3132B907-66A9-4A4F-A6FD-54FCE8E6C1F1}|PRG2_20232_P7_2_90\\PRG2_20232_P7_2_90.csproj|solutionrelative:prg2_20232_p7_2_90\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3132B907-66A9-4A4F-A6FD-54FCE8E6C1F1}|PRG2_20232_P7_2_90\\PRG2_20232_P7_2_90.csproj|C:\\Users\\Amar\\OneDrive - Politeknik Astra\\Mata Kuliah\\Semester 2\\PRG 2\\Tugas\\Minggu 8\\New folder\\PRG2_20232_P7_2_90\\prg2_20232_p7_2_90\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3132B907-66A9-4A4F-A6FD-54FCE8E6C1F1}|PRG2_20232_P7_2_90\\PRG2_20232_P7_2_90.csproj|solutionrelative:prg2_20232_p7_2_90\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3132B907-66A9-4A4F-A6FD-54FCE8E6C1F1}|PRG2_20232_P7_2_90\\PRG2_20232_P7_2_90.csproj|c:\\users\\amar\\onedrive - politeknik astra\\mata kuliah\\semester 2\\prg 2\\tugas\\minggu 8\\new folder\\prg2_20232_p7_2_90\\prg2_20232_p7_2_90\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3132B907-66A9-4A4F-A6FD-54FCE8E6C1F1}|PRG2_20232_P7_2_90\\PRG2_20232_P7_2_90.csproj|solutionrelative:prg2_20232_p7_2_90\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3132B907-66A9-4A4F-A6FD-54FCE8E6C1F1}|PRG2_20232_P7_2_90\\PRG2_20232_P7_2_90.csproj|C:\\Users\\Amar\\OneDrive - Politeknik Astra\\Mata Kuliah\\Semester 2\\PRG 2\\Tugas\\Minggu 8\\New folder\\PRG2_20232_P7_2_90\\prg2_20232_p7_2_90\\linqsupplier.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{3132B907-66A9-4A4F-A6FD-54FCE8E6C1F1}|PRG2_20232_P7_2_90\\PRG2_20232_P7_2_90.csproj|solutionrelative:prg2_20232_p7_2_90\\linqsupplier.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Amar\\OneDrive - Politeknik Astra\\Mata Kuliah\\Semester 2\\PRG 2\\Tugas\\Minggu 8\\New folder\\PRG2_20232_P7_2_90\\PRG2_20232_P7_2_90\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "PRG2_20232_P7_2_90\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Amar\\OneDrive - Politeknik Astra\\Mata Kuliah\\Semester 2\\PRG 2\\Tugas\\Minggu 8\\New folder\\PRG2_20232_P7_2_90\\PRG2_20232_P7_2_90\\Form1.Designer.cs",
+              "RelativeToolTip": "PRG2_20232_P7_2_90\\Form1.Designer.cs",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAUwNAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T06:37:45.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Amar\\OneDrive - Politeknik Astra\\Mata Kuliah\\Semester 2\\PRG 2\\Tugas\\Minggu 8\\New folder\\PRG2_20232_P7_2_90\\PRG2_20232_P7_2_90\\Form1.cs",
+              "RelativeDocumentMoniker": "PRG2_20232_P7_2_90\\Form1.cs",
+              "ToolTip": "C:\\Users\\Amar\\OneDrive - Politeknik Astra\\Mata Kuliah\\Semester 2\\PRG 2\\Tugas\\Minggu 8\\New folder\\PRG2_20232_P7_2_90\\PRG2_20232_P7_2_90\\Form1.cs [Design]",
+              "RelativeToolTip": "PRG2_20232_P7_2_90\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:48:20.441Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Amar\\OneDrive - Politeknik Astra\\Mata Kuliah\\Semester 2\\PRG 2\\Tugas\\Minggu 8\\New folder\\PRG2_20232_P7_2_90\\PRG2_20232_P7_2_90\\Form1.cs",
+              "RelativeDocumentMoniker": "PRG2_20232_P7_2_90\\Form1.cs",
+              "ToolTip": "C:\\Users\\Amar\\OneDrive - Politeknik Astra\\Mata Kuliah\\Semester 2\\PRG 2\\Tugas\\Minggu 8\\New folder\\PRG2_20232_P7_2_90\\PRG2_20232_P7_2_90\\Form1.cs",
+              "RelativeToolTip": "PRG2_20232_P7_2_90\\Form1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAIMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:36:13.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LinqSupplier.dbml",
+              "DocumentMoniker": "C:\\Users\\Amar\\OneDrive - Politeknik Astra\\Mata Kuliah\\Semester 2\\PRG 2\\Tugas\\Minggu 8\\New folder\\PRG2_20232_P7_2_90\\PRG2_20232_P7_2_90\\LinqSupplier.dbml",
+              "RelativeDocumentMoniker": "PRG2_20232_P7_2_90\\LinqSupplier.dbml",
+              "ToolTip": "C:\\Users\\Amar\\OneDrive - Politeknik Astra\\Mata Kuliah\\Semester 2\\PRG 2\\Tugas\\Minggu 8\\New folder\\PRG2_20232_P7_2_90\\PRG2_20232_P7_2_90\\LinqSupplier.dbml",
+              "RelativeToolTip": "PRG2_20232_P7_2_90\\LinqSupplier.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2024-05-07T11:49:33.988Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

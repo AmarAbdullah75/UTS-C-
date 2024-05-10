@@ -1,0 +1,20 @@
+C:\Users\Amar\OneDrive - Politeknik Astra\Mata Kuliah\Semester 2\PRG 2\PRG2_20232_P7_2_90\PRG2_20232_P7_2_90\bin\Debug\PRG2_20232_P7_2_90.exe.config
+C:\Users\Amar\OneDrive - Politeknik Astra\Mata Kuliah\Semester 2\PRG 2\PRG2_20232_P7_2_90\PRG2_20232_P7_2_90\bin\Debug\PRG2_20232_P7_2_90.exe
+C:\Users\Amar\OneDrive - Politeknik Astra\Mata Kuliah\Semester 2\PRG 2\PRG2_20232_P7_2_90\PRG2_20232_P7_2_90\bin\Debug\PRG2_20232_P7_2_90.pdb
+C:\Users\Amar\OneDrive - Politeknik Astra\Mata Kuliah\Semester 2\PRG 2\PRG2_20232_P7_2_90\PRG2_20232_P7_2_90\obj\Debug\PRG2_20232_P7_2_90.csproj.AssemblyReference.cache
+C:\Users\Amar\OneDrive - Politeknik Astra\Mata Kuliah\Semester 2\PRG 2\PRG2_20232_P7_2_90\PRG2_20232_P7_2_90\obj\Debug\PRG2_20232_P7_2_90.Form1.resources
+C:\Users\Amar\OneDrive - Politeknik Astra\Mata Kuliah\Semester 2\PRG 2\PRG2_20232_P7_2_90\PRG2_20232_P7_2_90\obj\Debug\PRG2_20232_P7_2_90.Properties.Resources.resources
+C:\Users\Amar\OneDrive - Politeknik Astra\Mata Kuliah\Semester 2\PRG 2\PRG2_20232_P7_2_90\PRG2_20232_P7_2_90\obj\Debug\PRG2_20232_P7_2_90.csproj.GenerateResource.cache
+C:\Users\Amar\OneDrive - Politeknik Astra\Mata Kuliah\Semester 2\PRG 2\PRG2_20232_P7_2_90\PRG2_20232_P7_2_90\obj\Debug\PRG2_20232_P7_2_90.csproj.CoreCompileInputs.cache
+C:\Users\Amar\OneDrive - Politeknik Astra\Mata Kuliah\Semester 2\PRG 2\PRG2_20232_P7_2_90\PRG2_20232_P7_2_90\obj\Debug\PRG2_20232_P7_2_90.exe
+C:\Users\Amar\OneDrive - Politeknik Astra\Mata Kuliah\Semester 2\PRG 2\PRG2_20232_P7_2_90\PRG2_20232_P7_2_90\obj\Debug\PRG2_20232_P7_2_90.pdb
+C:\Users\Amar\OneDrive - Politeknik Astra\Mata Kuliah\Semester 2\PRG 2\Tugas\Minggu 8\New folder\PRG2_20232_P7_2_90\PRG2_20232_P7_2_90\bin\Debug\PRG2_20232_P7_2_90.exe.config
+C:\Users\Amar\OneDrive - Politeknik Astra\Mata Kuliah\Semester 2\PRG 2\Tugas\Minggu 8\New folder\PRG2_20232_P7_2_90\PRG2_20232_P7_2_90\bin\Debug\PRG2_20232_P7_2_90.exe
+C:\Users\Amar\OneDrive - Politeknik Astra\Mata Kuliah\Semester 2\PRG 2\Tugas\Minggu 8\New folder\PRG2_20232_P7_2_90\PRG2_20232_P7_2_90\bin\Debug\PRG2_20232_P7_2_90.pdb
+C:\Users\Amar\OneDrive - Politeknik Astra\Mata Kuliah\Semester 2\PRG 2\Tugas\Minggu 8\New folder\PRG2_20232_P7_2_90\PRG2_20232_P7_2_90\obj\Debug\PRG2_20232_P7_2_90.csproj.AssemblyReference.cache
+C:\Users\Amar\OneDrive - Politeknik Astra\Mata Kuliah\Semester 2\PRG 2\Tugas\Minggu 8\New folder\PRG2_20232_P7_2_90\PRG2_20232_P7_2_90\obj\Debug\PRG2_20232_P7_2_90.Form1.resources
+C:\Users\Amar\OneDrive - Politeknik Astra\Mata Kuliah\Semester 2\PRG 2\Tugas\Minggu 8\New folder\PRG2_20232_P7_2_90\PRG2_20232_P7_2_90\obj\Debug\PRG2_20232_P7_2_90.Properties.Resources.resources
+C:\Users\Amar\OneDrive - Politeknik Astra\Mata Kuliah\Semester 2\PRG 2\Tugas\Minggu 8\New folder\PRG2_20232_P7_2_90\PRG2_20232_P7_2_90\obj\Debug\PRG2_20232_P7_2_90.csproj.GenerateResource.cache
+C:\Users\Amar\OneDrive - Politeknik Astra\Mata Kuliah\Semester 2\PRG 2\Tugas\Minggu 8\New folder\PRG2_20232_P7_2_90\PRG2_20232_P7_2_90\obj\Debug\PRG2_20232_P7_2_90.csproj.CoreCompileInputs.cache
+C:\Users\Amar\OneDrive - Politeknik Astra\Mata Kuliah\Semester 2\PRG 2\Tugas\Minggu 8\New folder\PRG2_20232_P7_2_90\PRG2_20232_P7_2_90\obj\Debug\PRG2_20232_P7_2_90.exe
+C:\Users\Amar\OneDrive - Politeknik Astra\Mata Kuliah\Semester 2\PRG 2\Tugas\Minggu 8\New folder\PRG2_20232_P7_2_90\PRG2_20232_P7_2_90\obj\Debug\PRG2_20232_P7_2_90.pdb
